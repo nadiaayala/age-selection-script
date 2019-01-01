@@ -3,45 +3,52 @@ var costumers =
         {
             "name": "John",
             "lastName": "Doe",
-            "age":"18"
+            "age":"18",
+            "email": "john_doe@hotmail.com"
         },
         {
             "name": "Ana",
             "lastName": "Doe",
-            "age":"54"
+            "age":"54",
+            "email": "ana_doe@hotmail.com"
         },
         {
             "name": "Mary",
             "lastName": "Thorton",
-            "age":"28"
+            "age":"28",
+            "email": "mary_thorton@yahoo.com"
         },
         {
             "name": "Lizzie",
             "lastName": "McCallan",
-            "age":"32"
+            "age":"32",
+            "email": "lizzie.mccallan@gmail.com"
         },
         {
             "name": "Roger",
             "lastName": "Tompkins",
-            "age":"17"
+            "age":"17",
+            "email": "roger.tompkins@gmail.com"
         },
         {
             "name": "Anne",
             "lastName": "Harris",
-            "age":"16"
+            "age":"16",
+            "email": "anne.harris@gmail.com"
         },
         {
             "name": "Louis",
             "lastName": "Kasan",
-            "age":"126"
+            "age":"126",
+            "email" : "louis.kasan@icloud.com"
         },
         {
             "name": "Louise",
             "lastName": "Swift",
-            "age":"33"
+            "age":"33",
+            "email": "louise.swift@gmail.com"
         }
     ];
-console.log(costumers);
 
 // Declare a function which can make calculations using the array and the function given as parameters: 
 function arrayCalc(arr, fn)
