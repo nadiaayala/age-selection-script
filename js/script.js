@@ -21,3 +21,4 @@ function isFullAge(el)
 // variables which will store the array containing the results provides by the arrayCalc function:
 var fullAges = arrayCalc(ages,isFullAge);
 console.log(fullAges);
+aa 
